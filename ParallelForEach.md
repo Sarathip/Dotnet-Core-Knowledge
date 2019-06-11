@@ -1,6 +1,6 @@
 # Task Parallel Library Dotnet Core
  
-`Parallel.ForEach อีกวิธีที่จะใช้ TPL ง่ายๆ คือเปลี่ยน foreach ให้แต่ละ loop ฝาก C# แบ่งให้แต่ละ thread ทำงานช่วยกัน`
+> Parallel.ForEach อีกวิธีที่จะใช้ TPL ง่ายๆ คือเปลี่ยน foreach ให้แต่ละ loop ฝาก C# แบ่งให้แต่ละ thread ทำงานช่วยกัน
 
 **ตัวอย่าง** ผมมีคลาส ที่ทำการทดสอบระหว่างการใช้งาน foreach กับ Parallel.ForEach
 * โดยการสร้าง int array ทั้งหมด 1 ล้านตัวทำการวน loop ไปเรื่อยๆ
