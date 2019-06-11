@@ -1,3 +1,4 @@
+  ``` c#
   public JsonResult ParallelTest()
         {
             int[] arr = Enumerable.Range(0, 1000000).ToArray();
@@ -29,3 +30,4 @@
             }
             return Json(new { response = response });
         }
+```
