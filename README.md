@@ -1,2 +1,2 @@
-# Knowledge
-Knowledge Blog
+# Dotnet Core Knowledge
+Dotnet Core Knowledge Blog
