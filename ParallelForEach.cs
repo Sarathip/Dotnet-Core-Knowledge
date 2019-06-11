@@ -5,7 +5,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Tyrek.Controllers
+namespace ParallelForEach.Controllers
 {
     public class ParallelForEach : Controller
     {
